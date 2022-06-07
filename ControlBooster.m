@@ -1,5 +1,6 @@
 function [angAtt, phase, mdot, Fx] = ControlBooster(t, DSuicide, state, parameters)
     global p4Y time2 time3 oldMdot oldFx;
+% ASTE 101, Fall 2020
 
     g = 9.8;
 
