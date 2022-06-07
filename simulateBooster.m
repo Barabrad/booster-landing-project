@@ -1,4 +1,5 @@
 function simulateBooster(controlBooster)
+% ASTE 101, Fall 2020
 % Main program for running booster landing simulation
 
     if nargin < 1
